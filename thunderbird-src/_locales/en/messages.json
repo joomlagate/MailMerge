@@ -1,57 +1,57 @@
 {
     "extensionDescription": {
-        "message": "Send customized bulk messages"
+        "message": "发送个性化的群发邮件"
     },
     "extensionName": {
-        "message": "Mail Merge P"
+        "message": "Mail Merge P 插件"
     },
-    "next": { "message": "Next" },
-    "previous": { "message": "Previous" },
-    "cancel": { "message": "Cancel" },
-    "send": { "message": "Send" },
-    "data": { "message": "Data" },
+    "next": { "message": "下一步" },
+    "previous": { "message": "上一步" },
+    "cancel": { "message": "取消" },
+    "send": { "message": "发送" },
+    "data": { "message": "数据" },
     "dataInfo": {
-        "message": "Open a spreadsheet file (.csv, .xlsx, .ods, etc.) or copy-and-paste data into the spreadsheet below."
+        "message": "打开一个数据库文件 (.csv, .xlsx, .ods, etc.) ，或者复制数据然后粘贴到下方的表格中。"
     },
-    "openAFile": { "message": "Open a file…" },
-    "settings": { "message": "Settings" },
-    "preview": { "message": "Preview" },
-    "sendMode": { "message": "Send mode:" },
+    "openAFile": { "message": "打开文件 …" },
+    "settings": { "message": "设置" },
+    "preview": { "message": "预览" },
+    "sendMode": { "message": "发送方式：" },
     "sendModeDesc": {
-        "message": "Set how messages will be delivered. Send Later will leave messages in the Drafts folder."
+        "message": "请设置邮件的发送方式。如果选择 “稍后发送” 方式，邮件将被保存到“草稿”文件夹中。 "
     },
-    "sendModeNow": { "message": "Send Now" },
-    "sendModeLater": { "message": "Send Later" },
-    "sendModeDraft": { "message": "Save as Draft" },
-    "messageDelay": { "message": "Message delay:" },
+    "sendModeNow": { "message": "立即发送" },
+    "sendModeLater": { "message": "稍后发送" },
+    "sendModeDraft": { "message": "存为草稿" },
+    "messageDelay": { "message": "邮件延迟（秒）：" },
     "messageDelayDesc": {
-        "message": "Delay, in seconds, between sending messages."
+        "message": "发送时，相邻两封邮件中间的间隔时间，单位：秒。"
     },
-    "sendMessageRange": { "message": "Send Message Range:" },
+    "sendMessageRange": { "message": "邮件发送范围：" },
     "sendMessageRangeDesc": {
-        "message": "Send only specific messages as specified by this range."
+        "message": "只发送指定范围内的邮件（第几封到第几封）。"
     },
-    "parser": { "message": "Parser:" },
+    "parser": { "message": "解析器：" },
     "parserDesc": {
-        "message": "Select the parser that will be used to substitute variables into the email template."
+        "message": "选择使用何种解析器在邮件模板中来替换变量？"
     },
-    "parserLegacy": { "message": "Legacy" },
+    "parserLegacy": { "message": "老式的" },
     "previewEmpty": {
-        "message": "No emails to preview. Try loading data in the {0} tab."
+        "message": "没有邮件可预览。请在 “{0}” 选项卡上加载数据。"
     },
-    "previewPreviewing": { "message": "Previewing {0} of {1}" },
-    "about": { "message": "About" },
-    "developers": { "message": "Developers" },
-    "support": { "message": "Support" },
-    "license": { "message": "License" },
-    "donate": { "message": "Donate" },
-    "euro": { "message": "{0} €" },
-    "dollar": { "message": "$ {0}" },
-    "current": { "message": "Current:" },
-    "total": { "message": "Total:" },
-    "time": { "message": "Time:" },
-    "progress": { "message": "Progress:" },
-    "status": { "message": "Status:" },
-    "sending": { "message": "Sending…" },
-    "waiting": { "message": "Waiting…" }
+    "previewPreviewing": { "message": "预览（第 {0} 封 / 共 {1} 封）" },
+    "about": { "message": "关于" },
+    "developers": { "message": "作者" },
+    "support": { "message": "技术支持" },
+    "license": { "message": "许可协议" },
+    "donate": { "message": "捐助作者" },
+    "euro": { "message": "{0} 欧元" },
+    "dollar": { "message": "{0} 美元" },
+    "current": { "message": "当前：" },
+    "total": { "message": "总数：" },
+    "time": { "message": "时间：" },
+    "progress": { "message": "进度：" },
+    "status": { "message": "状态：" },
+    "sending": { "message": "正在发送邮件 …" },
+    "waiting": { "message": "正在等待 …" }
 }
