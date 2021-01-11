@@ -1,1 +1,57 @@
-
+{
+    "extensionDescription": {
+        "message": "Send customized bulk messages"
+    },
+    "extensionName": {
+        "message": "Mail Merge P"
+    },
+    "next": { "message": "下一步" },
+    "previous": { "message": "上一步" },
+    "cancel": { "message": "取消" },
+    "send": { "message": "发送" },
+    "data": { "message": "数据" },
+    "dataInfo": {
+        "message": "Open a spreadsheet file (.csv, .xlsx, .ods, etc.) or copy-and-paste data into the spreadsheet below."
+    },
+    "openAFile": { "message": "打开文件 …" },
+    "settings": { "message": "设置" },
+    "preview": { "message": "预览" },
+    "sendMode": { "message": "发送方式：" },
+    "sendModeDesc": {
+        "message": "Set how messages will be delivered. Send Later will leave messages in the Drafts folder."
+    },
+    "sendModeNow": { "message": "立即发送" },
+    "sendModeLater": { "message": "稍后发送" },
+    "sendModeDraft": { "message": "存为草稿" },
+    "messageDelay": { "message": "邮件延迟（秒）：" },
+    "messageDelayDesc": {
+        "message": "Delay, in seconds, between sending messages."
+    },
+    "sendMessageRange": { "message": "邮件发送范围：" },
+    "sendMessageRangeDesc": {
+        "message": "Send only specific messages as specified by this range."
+    },
+    "parser": { "message": "解析器：" },
+    "parserDesc": {
+        "message": "Select the parser that will be used to substitute variables into the email template."
+    },
+    "parserLegacy": { "message": "老式的" },
+    "previewEmpty": {
+        "message": "No emails to preview. Try loading data in the {0} tab."
+    },
+    "previewPreviewing": { "message": "Previewing {0} of {1}" },
+    "about": { "message": "关于" },
+    "developers": { "message": "作者" },
+    "support": { "message": "技术支持" },
+    "license": { "message": "许可协议" },
+    "donate": { "message": "捐助作者" },
+    "euro": { "message": "{0} 欧元" },
+    "dollar": { "message": "{0} 美元" },
+    "current": { "message": "当前：" },
+    "total": { "message": "总数：" },
+    "time": { "message": "时间：" },
+    "progress": { "message": "进度：" },
+    "status": { "message": "状态：" },
+    "sending": { "message": "正在发送 …" },
+    "waiting": { "message": "等待中 …" }
+}
